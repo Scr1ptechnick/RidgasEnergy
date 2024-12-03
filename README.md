@@ -1,4 +1,4 @@
-```markdown
+
 # ESTRATEGIA DE MARKETING
 
 ## Frases Publicitarias
@@ -122,4 +122,4 @@ La frecuencia de publicación propuesta es de **3 veces por semana**.
 - **Lunes:** Producto destacado.  
 - **Miércoles:** Mensaje inspirador.  
 - **Viernes:** Imagen promocional.
-```
+
